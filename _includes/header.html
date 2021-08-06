@@ -22,7 +22,7 @@
       </button>
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
-          <!-- About -->
+          <!-- About 
           <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               about
@@ -31,8 +31,8 @@
               {% endif %}
             </a>
           </li>
-          {% if site.blog_name %}
-          <!-- Blog -->
+          {% if site.blog_name %}   -->
+          <!-- Blog 
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
             <a class="nav-link" href="{{ '/blog/' | relative_url }}">
               blog
@@ -41,9 +41,10 @@
               {% endif %}
             </a>
           </li>
-          {% endif %}
+          {% endif %} -->
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+           <!-- {% assign sorted_pages = site.pages | sort: "title" %} -->
+          {% assign sorted_pages = site.pages %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
