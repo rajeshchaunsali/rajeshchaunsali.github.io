@@ -18,5 +18,10 @@ Candidates who have been offered admission to an M.S./Ph.D. program at IISc are 
 Candidates currently pursuing an undergraduate degree in engineering, physics, or applied math are encouraged to apply through the fellowship programs of [JNCASR](https://www.jncasr.ac.in/academic/fandeprogrammes/srfp/){:target="\_blank"} and/or [Science Academies](https://www.ias.ac.in/){:target="\_blank"}.
 
 ##### Project Assistants/Associates
-There may be an opening for a Project Assistant/Associate very soon. Candidates interested in vibration testing are encouraged to email us with their CVs.
+We have an opening for a Project Assistant/Associate starting immediately. Candidates with one or more of the following skills are encouraged to email us with their CVs:
 
+- Unsupervised Machine Learning (application to dynamical systems is a plus)
+- Hands-on experience with feedback-control design for mechanical structures 
+- Finite element method for structural dynamics in multi-physics environment
+
+The support is for a year and can be extended depending on available funds and performance. The salary would be as per IISc norms. 
