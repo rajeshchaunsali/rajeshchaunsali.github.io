@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: prof_picture.jpg
+  image: prof_pic.jpg
   address: >
     <p>rchaunsali[at]</p>
     <p>iisc[dot]ac[dot]in</p>
@@ -29,7 +29,7 @@ of mechanical energy in engineered materials such as metamaterials. Please find 
 
 ##### Professional History
 
-- [Indian Institute of Science](https://www.iisc.ac.in/){:target="\_blank"}, Bangalore (2021--present)
+- [Indian Institute of Science](https://www.iisc.ac.in/){:target="\_blank"}, Bengaluru (2021--present)
 > Assistant Professor, Department of Aerospace Engineering
 
 - [LAUM](http://www.univ-lemans.fr/en/research/laboratories/laum.html){:target="\_blank"}, CNRS (2018--2021)

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-07-29
+date: 2022-01-19
 inline: true
 ---
 
-Dr. Chaunsali joins the Department of Aerospace Engineering at IISc Bangalore.
+We have an opening for a Project Assistant/Associate ([details](/openings){:target="\_blank"}).

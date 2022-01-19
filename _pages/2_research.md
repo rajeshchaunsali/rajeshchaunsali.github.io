@@ -51,5 +51,6 @@ We are interested in exploring nonlinear wave phenomena in mechanical systems. I
 Besides, we are also interested in exploring the following directions:
 
 - Fluid-metamaterial interaction 
+- Active structures
 - Wave-based robotics 
 - Machine learning for lattice structures
