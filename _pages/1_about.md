@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: RajeshChaunsali.jpg
   address: >
     <p>rchaunsali[at]</p>
     <p>iisc[dot]ac[dot]in</p>
