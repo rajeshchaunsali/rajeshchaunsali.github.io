@@ -7,7 +7,7 @@ nav: true
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Harshit.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Harshit Kumar Sandhu <br>
          Ph.D. student <br>
@@ -16,7 +16,7 @@ nav: true
         </div>
     </div>
 
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Srikanth.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Garigipati Sai Srikant <br>
          Ph.D. student <br>
@@ -25,7 +25,7 @@ nav: true
         </div>
     </div>
 
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Udbhav.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Udbhav Vishwakarma <br>
          M.Tech. (Research) student <br>
@@ -37,7 +37,7 @@ nav: true
 </div>
 
 <div class="row">
-    <div class="col-4 mt-3 mt-md-0">
+    <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Adams.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Johnson Adams PS <br>
          Project Associate <br>
@@ -46,4 +46,9 @@ nav: true
         </div>
     </div>
 
+    <div class="col-sm mt-4 mt-md-0">
+    </div>
+
+    <div class="col-sm mt-4 mt-md-0">
+    </div>
 </div>
