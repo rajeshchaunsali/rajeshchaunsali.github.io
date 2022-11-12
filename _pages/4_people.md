@@ -68,7 +68,7 @@ nav: true
 
 <div class="row">
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Renganath.JPG' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Renganath.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Renganath Rengarajan <br>
          Project Associate <br>
          renganathr at iisc ac in <br>
@@ -77,7 +77,7 @@ nav: true
     </div>
 
      <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Mohit.PNG' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Mohit.png' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Mohit Dhanda <br>
          Project Associate <br>
          mohitdhanda at iisc ac in <br>
