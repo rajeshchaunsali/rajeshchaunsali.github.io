@@ -32,7 +32,7 @@ Candidates currently pursuing an undergraduate degree in engineering, physics, o
 ---
 
 ##### Project Assistants/Associates
-We have an opening for a Project Assistant/Associate for a project on Topological Metamaterials. Candidates with demonstrated skills in experimental mechanics are encouraged to email us their CVs. The salary would be as per IISc norms. 
+We have an opening for a Project Assistant/Associate for a project on Robotic Metamaterials. Candidates with demonstrated skills in experimental mechanics are encouraged to email us their CVs. Exposure to Robotics, 3D printing, and vibration testing is desirable. The salary would be as per IISc norms. 
 
 *I often get several emails for these positions. If I did not respond, please know that I looked at your application carefully but determined that your background was not an ideal fit for the advertised position.*
 

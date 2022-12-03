@@ -68,21 +68,15 @@ nav: true
 
 <div class="row">
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Renganath.jpg' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Renganath Rengarajan <br>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Irfan.jpg' | relative_url }}" alt="" title="example image" /> 
+        <div class="caption text-left">Murthaza Irfan A V <br>
          Project Associate <br>
-         renganathr at iisc ac in <br>
-         <a href="/assets/pdf/CV_Renganath.pdf" class="link">CV</a>
+          at iisc ac in <br>
+         <a href="/assets/pdf/CV_Irfan.pdf" class="link">CV</a>
         </div>
     </div>
 
-     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Mohit.png' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Mohit Dhanda <br>
-         Project Associate <br>
-         mohitdhanda at iisc ac in <br>
-         <a href="/assets/pdf/CV_Mohit.pdf" class="link">CV</a>
-        </div>
+    <div class="col-sm mt-4 mt-md-0">
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
@@ -90,4 +84,6 @@ nav: true
 </div>
 
 ##### Alumni
-Johnson Adams PS (Project Associate, Dec 2021 -- July 2022), Next: Masters, Columbia University
+* Mohit Dhanda (Project Associate, June 2022 -- Nov 2022), Next: PhD, University of Waterloo
+* Renganath Rengarajan (Project Associate, May 2022 -- Nov 2022), Next: Airframe Engineer, Airbus
+* Johnson Adams PS (Project Associate, Dec 2021 -- July 2022), Next: Masters, Columbia University
