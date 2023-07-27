@@ -70,7 +70,7 @@ nav: true
     <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Govardhan.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Govardhan K <br>
-         M.Tech. <br>
+         M.Tech. student <br>
           kgovardhan at iisc ac in <br>
          <a href="/assets/pdf/CV_Govardhan.pdf" class="link">CV</a>
         </div>
@@ -79,7 +79,7 @@ nav: true
      <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Anand.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Anand Panchal <br>
-         M.Tech. <br>
+         M.Tech. student <br>
           anandpanchal at iisc.ac.in <br>
          <a href="/assets/pdf/CV_Anand.pdf" class="link">CV</a>
         </div>
