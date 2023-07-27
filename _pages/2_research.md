@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: 
 nav: true
@@ -8,7 +8,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Our research is directed towards designing advanced structures with unconventional mechanical responses. In this process, we use novel engineered material systems, such as auxetic materials, phononic crystals, and metamaterials, and take a mix of theoretical, numerical, and experimental approaches. At a more fundamental level, we rely on geometry, symmetry, and interactions of structural constituents to demonstrate phenomena such as diode-like one-way transport, topology-enabled robust waveguiding, soliton formation, low-frequency filtering, and turbulence-like cascading. We aim to leverage the basic understanding of such phenomena to develop out-of-box solutions for advanced aerospace/mechanical systems. Below are some ongoing research directions:
+Our research is directed toward designing advanced structures with unconventional mechanical responses. In this process, we use novel engineered material systems, such as auxetic materials, phononic crystals, and metamaterials, and take a mix of theoretical, numerical, and experimental approaches. At a more fundamental level, we rely on geometry, symmetry, and interactions of structural constituents to demonstrate phenomena such as diode-like one-way transport, topology-enabled robust waveguiding, soliton formation, low-frequency filtering, and turbulence-like cascading. We aim to leverage the basic understanding of such phenomena to develop out-of-box solutions for advanced aerospace/mechanical systems. Below are some ongoing research directions:
 
 ---
 
@@ -20,7 +20,7 @@ We are interested in designing mechanical structures with nontrivial topology. T
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid z-depth-0" src="{{ '/assets/img/1.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -37,7 +37,7 @@ We are interested in exploring nonlinear wave phenomena in mechanical systems. I
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid z-depth-0" src="{{ '/assets/img/2.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">

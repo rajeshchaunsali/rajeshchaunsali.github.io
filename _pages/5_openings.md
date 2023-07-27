@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /openings/
-title: openings
+title: Openings
 description: 
 nav: true
 ---
@@ -11,32 +11,46 @@ We are looking for passionate and dynamic people to build a vibrant team. If you
 ---
 
 ##### Postdoctoral Research
-Candidates interested in pursuing theoretical, numerical, or experimental research in our group are encouraged to email us and include your CV, a list of two references, and a one-page research proposal. The applications of strong candidates may be considered for the [Raman Post-Doctoral Fellowship](https://iisc.ac.in/post-docs/){:target="\_blank"} or the [Institute of Eminence (IoE) Post-Doctoral Fellowship](https://iisc.ac.in/post-docs/){:target="\_blank"}. Candidates can also look for external funding schemes, such as [National Post-Doctoral Fellowship](https://serbonline.in/SERB/npdf?HomePage=New) and [Dr. S. Radhakrishnan Post-Doctoral Fellowship](https://frg.ugc.ac.in/Home). 
+Candidates interested in pursuing theoretical, numerical, or experimental research in our group are encouraged to apply. Candidates are expected to be motivated and independent. They should be capable of leading a research direction while mentoring fresh PhD students. The applications of strong candidates may be considered for the following internal fellowships:
+1. [C V Raman Post-Doctoral Fellowship](https://iisc.ac.in/post-docs/){:target="\_blank"} 
+2. [Axis Bank Post-Doctoral Fellowship](https://abcmc.iisc.ac.in/postdoc-fellowship-poster/){:target="\_blank"} 
+3. [Institute of Eminence (IoE) Post-Doctoral Fellowship](https://iisc.ac.in/post-docs/){:target="\_blank"} 
 
-*We may have an industry-sponsored post-doctoral position in the coming months. Candidates with expertise in fiber optics or optical metamaterials are encouraged to apply.*
+Candidates may also look for external funding schemes, such as 
+1. [National Post-Doctoral Fellowship](https://serbonline.in/SERB/npdf?HomePage=New) 
+2. [Dr. S. Radhakrishnan Post-Doctoral Fellowship](https://frg.ugc.ac.in/Home)
+3. [NBHM Post-Doctoral Fellowship](http://www.nbhm.dae.gov.in/postdoct.html)
+4. [Women Scientists Program](https://dst.gov.in/scientific-programmes/scientific-engineering-research/women-scientists-programs)
+
+Apply [here](https://forms.office.com/r/ENUdPf4FYm) to initiate the discussion.
 
 ---
 
 ##### Graduate Research
 Candidates who have been offered admission to Ph.D./M.Tech. programs at IISc are welcome to email us their CVs and discuss research opportunities in the group.
 
-*We are not accepting any research students for the current academic cycle (2022-2023).*
+*We are not accepting any research students for the Aug-Nov 2023 semester.*
 
 ---
 
 ##### Undergraduate Research
-Candidates currently pursuing an undergraduate degree in engineering, physics, or applied mathematics are encouraged to apply through the fellowship programs of [JNCASR](https://www.jncasr.ac.in/academic/fandeprogrammes/srfp/){:target="\_blank"} and/or [Science Academies](https://www.ias.ac.in/){:target="\_blank"}.
+Candidates currently pursuing an undergraduate degree in engineering, physics, or applied mathematics are encouraged to apply through the following fellowship programs: 
+1. [JNCASR](https://www.jncasr.ac.in/academic/fandeprogrammes/srfp/){:target="\_blank"} 
+2. [Science Academies](https://www.ias.ac.in/){:target="\_blank"}
 
-*Students passionate about experimental mechanics are encouraged to email me directly, along with a strong justification for their skills.*
+Apply [here](https://forms.office.com/r/ENUdPf4FYm) if you missed the aforementioned fellowships, but you are passionate about experimental mechanics.
 
 ---
 
 ##### Project Assistants/Associates
-We have an opening for a Project Assistant/Associate for a project on Robotic Metamaterials. Candidates with demonstrated skills in experimental mechanics are encouraged to email us their CVs. Exposure to Robotics, 3D printing, and vibration testing is desirable. The salary would be as per IISc norms. 
+We may have an opening for a Project Assistant/Associate for a project on Mechanical Metamaterials very soon. Candidates with demonstrated skills in experimental mechanics are encouraged to apply. Exposure to Robotics, 3D printing, and vibration testing is desirable. The salary would be as per IISc norms. 
 
-*I often get several emails for these positions. If I did not respond, please know that I looked at your application carefully but determined that your background was not an ideal fit for the advertised position.*
+Apply [here](https://forms.office.com/r/ENUdPf4FYm) to initiate the discussion.
 
 <!--
+*I often get several emails for these positions. If I did not respond, please know that I looked at your application carefully but determined that your background was not an ideal fit for the advertised position.*
+
+
 - Unsupervised Machine Learning (application to dynamical systems is a plus) %}
 - Hands-on experience with feedback-control design for mechanical structures 
 - Finite element method for structural dynamics in multi-physics environment
