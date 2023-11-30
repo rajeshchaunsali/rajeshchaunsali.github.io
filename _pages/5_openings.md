@@ -29,7 +29,7 @@ Apply [here](https://forms.office.com/r/ENUdPf4FYm) to initiate the discussion.
 ##### Graduate Research
 Candidates who have been offered admission to Ph.D./M.Tech. programs at IISc are welcome to email us their CVs and discuss research opportunities in the group.
 
-*We are not accepting any research students for the Aug-Nov 2023 semester.*
+*We are not accepting any research students for the Jan-April 2024 semester.*
 
 ---
 

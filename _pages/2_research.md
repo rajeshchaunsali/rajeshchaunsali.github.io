@@ -8,7 +8,12 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Our research is directed toward designing advanced structures with unconventional mechanical responses. In this process, we use novel engineered material systems, such as auxetic materials, phononic crystals, and metamaterials, and take a mix of theoretical, numerical, and experimental approaches. At a more fundamental level, we rely on geometry, symmetry, and interactions of structural constituents to demonstrate phenomena such as diode-like one-way transport, topology-enabled robust waveguiding, soliton formation, low-frequency filtering, and turbulence-like cascading. We aim to leverage the basic understanding of such phenomena to develop out-of-box solutions for advanced aerospace/mechanical systems. Below are some ongoing research directions:
+Our research is directed toward the design of advanced materials that exhibit unconventional mechanical responses. We harness the principles of geometry, symmetry, and the interactions of structural constituents to customize the collective properties of these materials.
+
+In particular, we focus on engineered material systems, including auxetic materials, phononic crystals, and metamaterials, and take a mix of theoretical, numerical, and experimental approaches. We aim to leverage our fundamental understanding of these engineered materials to devise innovative solutions for advanced aerospace and mechanical systems.
+
+Here are some of the exciting research directions we're currently exploring:
+
 
 ---
 
