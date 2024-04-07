@@ -14,13 +14,13 @@ We are looking for passionate and dynamic people to build a vibrant team. If you
 Candidates interested in pursuing theoretical, numerical, or experimental research in our group are encouraged to apply. Candidates are expected to be motivated and independent. They should be capable of leading a research direction while mentoring fresh PhD students. The applications of strong candidates may be considered for the following internal fellowships:
 1. [C V Raman Post-Doctoral Fellowship](https://iisc.ac.in/post-docs/){:target="\_blank"} 
 2. [Axis Bank Post-Doctoral Fellowship](https://abcmc.iisc.ac.in/postdoc-fellowship-poster/){:target="\_blank"} 
-3. [Institute of Eminence (IoE) Post-Doctoral Fellowship](https://iisc.ac.in/post-docs/){:target="\_blank"} 
+<!-- 3. [Institute of Eminence (IoE) Post-Doctoral Fellowship](https://iisc.ac.in/post-docs/){:target="\_blank"} -->
 
 Candidates may also look for external funding schemes, such as 
 1. [National Post-Doctoral Fellowship](https://serbonline.in/SERB/npdf?HomePage=New) 
-2. [Dr. S. Radhakrishnan Post-Doctoral Fellowship](https://frg.ugc.ac.in/Home)
-3. [NBHM Post-Doctoral Fellowship](http://www.nbhm.dae.gov.in/postdoct.html)
-4. [Women Scientists Program](https://dst.gov.in/scientific-programmes/scientific-engineering-research/women-scientists-programs)
+2. [NBHM Post-Doctoral Fellowship](http://www.nbhm.dae.gov.in/postdoct.html)
+3. [Women in Science and Engineering](https://online-wosa.gov.in/)
+4. [Dr. S. Radhakrishnan Post-Doctoral Fellowship](https://frg.ugc.ac.in/Home)
 
 Apply [here](https://forms.office.com/r/ENUdPf4FYm) to initiate the discussion.
 
