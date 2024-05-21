@@ -85,6 +85,20 @@ nav: true
         </div>
     </div>
 
+     <div class="col-sm mt-4 mt-md-0">
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Ramya.jpg' | relative_url }}" alt="" title="example image" /> 
+        <div class="caption text-left">Kapila Ramya Krishna <br>
+         M.Tech. student <br>
+          kapilaramya at iisc.ac.in <br>
+         <a href="/assets/pdf/CV_Ramya.pdf" class="link">CV</a>
+        </div>
+    </div>
+
+
+</div>
+
+<div class="row">
+
     <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Irfan.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Murthaza Irfan A V <br>
@@ -93,9 +107,7 @@ nav: true
          <a href="/assets/pdf/CV_Irfan.pdf" class="link">CV</a>
         </div>
     </div>
-</div>
 
-<div class="row">
     <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Ahamed.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Ahamed Ali N <br>
@@ -114,11 +126,14 @@ nav: true
         </div>
     </div>
 
-    <div class="col-sm mt-4 mt-md-0">
-    </div>
+  
 </div>
 
 ##### Alumni
+* Avinash Umashankar (Intern, Jan 2024 -- May 2024)
+* Ankush Yadav (Visiting Scholar, Nov 2023 -- Feb 2024)
+* Vikramaditya Agrawal (Intern, May 2023 -- July 2023)
+* Vedant Vijaykrishnan (Intern, May 2023 -- July 2023)
 * Mohit Dhanda (Project Associate, June 2022 -- Nov 2022), Next: PhD, University of Waterloo
 * Renganath Rengarajan (Project Associate, May 2022 -- Nov 2022), Next: Airframe Engineer, Airbus
 * Johnson Adams PS (Project Associate, Dec 2021 -- July 2022), Next: Masters, Columbia University
