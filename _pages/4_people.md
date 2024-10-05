@@ -57,6 +57,17 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Monalisha.jpg' | relative_url }}" alt="" title="example image" /> 
+        <div class="caption text-left">Monalisha <br>
+         Ph.D. student <br>
+         monalisha2 at iisc ac in <br>
+         <a href="/assets/pdf/CV_Monalisha.pdf" class="link">CV</a>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Udbhav.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Udbhav Vishwakarma <br>
          M.Tech. (Research) student <br>
@@ -64,24 +75,13 @@ nav: true
          <a href="/assets/pdf/CV_Udbhav.pdf" class="link">CV</a>
         </div>
     </div>
-</div>
 
-<div class="row">
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Govardhan.jpg' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Govardhan K <br>
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Anshuman.jpg' | relative_url }}" alt="" title="example image" /> 
+        <div class="caption text-left">Anshuman <br>
          M.Tech. student <br>
-          kgovardhan at iisc ac in <br>
-         <a href="/assets/pdf/CV_Govardhan.pdf" class="link">CV</a>
-        </div>
-    </div>
-
-     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Anand.jpg' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Anand Panchal <br>
-         M.Tech. student <br>
-          anandpanchal at iisc.ac.in <br>
-         <a href="/assets/pdf/CV_Anand.pdf" class="link">CV</a>
+          anshuman2023 at iisc.ac.in <br>
+         <a href="/assets/pdf/CV_Anshuman.pdf" class="link">CV</a>
         </div>
     </div>
 
@@ -109,27 +109,27 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Ahamed.jpg' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Ahamed Ali N <br>
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Avinash.jpg' | relative_url }}" alt="" title="example image" /> 
+        <div class="caption text-left">Avinash Umashankar <br>
          Project Associate <br>
-           at iisc ac in <br>
-         <a href="/assets/pdf/CV_Ahamed.pdf" class="link">CV</a>
+           avinashumashankar at gmail dot com <br>
+         <a href="/assets/pdf/CV_Avinash.pdf" class="link">CV</a>
         </div>
     </div>
 
-     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/Saurav.jpg' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Saurav Dutta <br>
-         Project Associate <br>
-           at iisc ac in <br>
-         <a href="/assets/pdf/CV_Saurav.pdf" class="link">CV</a>
-        </div>
+    <div class="col-sm mt-4 mt-md-0">
+
     </div>
+
 
   
 </div>
 
 ##### Alumni
+* Saurav Dutta (Project Associate, June 2023 -- July 2024)
+* Ahamed Ali N (Project Associate, July 2023 -- June 2024), Next: PhD, Johns Hopkins University
+* Panchal A. Jayeshbhai (M. Tech., Aug 2022 -- June 2024), Next: Ola
+* Govardhan K (M. Tech., Aug 2022 -- June 2024), Next: Directorate General of Civil Aviation
 * Avinash Umashankar (Intern, Jan 2024 -- May 2024)
 * Ankush Yadav (Visiting Scholar, Nov 2023 -- Feb 2024)
 * Vikramaditya Agrawal (Intern, May 2023 -- July 2023)
