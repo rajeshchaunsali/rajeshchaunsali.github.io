@@ -1,80 +1,103 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Topological Lattices
+description: a robust way to localize and guide energy in materials
+img: assets/img/research/Project1_front.jpeg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### What’s This About?
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Metamaterials are **engineered materials** designed to exhibit **unconventional properties** that do not exist in nature. A key frontier in this field is **topological metamaterials**—structures where **energy behaves in robust and unexpected ways**. Unlike conventional materials, their unique properties arise from the **topology of wave dispersion**, enabling precise **energy localization and guidance**.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/research/Project1.png" title="example image" class="img-fluid  z-depth-0" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+---
+
+### Why Does It Matter? 
+
+Can we **engineer materials that trap and direct vibrations with precision**? If so, we open up **new possibilities for energy manipulation**, paving the way for **smarter materials** in:  
+
+- **Efficient Signal Processing** – Enhancing wave control for improved communication and sensing.  
+- **Energy Harvesting** – Capturing and converting mechanical energy more effectively.  
+- **Unconventional Computing** – Leveraging wave-based information processing for novel computing architectures.  
+
+By mastering **vibration and wave control at the fundamental level**, topological metamaterials have the potential to **transform applications in aerospace, robotics, and quantum technologies**.  
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
+
+### What We’re Working on Right Now  
+
+Our research explores **whether novel topological phenomena emerges in different types of systems**, including:  
+
+✔️ **Periodic and quasi-periodic lattices** (patterned structures)  
+✔️ **Disordered systems** (how randomness affects wave behavior)  
+✔️ **Driven and lossy systems** (energy input/output dynamics)  
+✔️ **Nonlinear materials** (new physics beyond traditional limits)  
+
+We’re pushing the boundaries of **engineering and physics** to develop **novel architectures** for future applications.  
+
+---
+
+### Want to Join Us?  
+
+We’re looking for a **motivated graduate student** to dive into this cutting-edge field. Here, you’ll gain skills in:  
+
+🚀 **Computational modeling & simulations**  
+🛠 **Experimental techniques for wave physics**  
+🔍 **Analytical methods in topological mechanics**  
+
+If you’re curious about **how we can shape materials to control energy in unprecedented ways**, let’s talk!  
+
+---
+### Recent Publications
+
+#### Hidden Topology 
+- **Edge States with Hidden Topology in Spinner Lattices,**  
+  *Communications Physics* (accepted).  
+- **Strain Topological Metamaterials and Revealing Hidden Topology in Higher-Order Coordinates,**  
+  *Nature Communications* **14**, 6633, 2023.  
+
+#### Topology & Nonlinearity
+- **Nonlinear Corner States in a Topologically Nontrivial Kagome Lattice,**  
+  *Physical Review B* **110**, 104307, 2024.  
+- **Dirac Solitons and Topological Edge States in the β-Fermi-Pasta-Ulam-Tsingou Dimer Lattice,**  
+  *Physical Review E* **108**, 054224, 2023.  
+- **Nonlinear Topological Edge States: From Dynamic Delocalization to Thermalization,**  
+  *Physical Review B* **105**, 104308, 2022.  
+- **Stability of Topological Edge States Under Strong Nonlinear Effects,**  
+  *Physical Review B* **103**, 024106, 2021.  
+- **Self-Induced Topological Transition in Phononic Crystals by Nonlinearity Management,**  
+  *Physical Review B* **100**, 014302, 2019.  
+
+#### Topology & Disorder 
+- **Topological Phase Transition in a Disordered Elastic Quantum Spin Hall System,**  
+  *Physical Review B* **108**, 054205, 2023.  
+- **Disorder-Induced Topological Phase Transition in a One-Dimensional Mechanical System,**  
+  *Physical Review Research* **3**, 033012, 2021.  
+
+#### Topological Mechanics 
+- **Bulk-Edge Correspondence in the Trimer Su-Schrieffer-Heeger Model,**  
+  *Physical Review B* **106**, 085109, 2022.  
+- **Corner States in a Second-Order Mechanical Topological Insulator,**  
+  *Communications Materials* **2**, 1, 2021.  
+- **Mechanical Analogue of a Majorana Bound State,**  
+  *Advanced Materials* **31**, 1904386, 2019.  
+- **Elastic Weyl Points and Surface Arc States in Three-Dimensional Structures,**  
+  *Physical Review Applied* **12**, 024058, 2019.  
+- **Experimental Demonstration of Topological Waveguiding in an Elastic Plate with Local Resonators,**  
+  *New Journal of Physics* **20**, 113036, 2018.  
+- **Subwavelength and Directional Control of Flexural Waves in Zone-Folding Induced Topological Plates,**  
+  *Physical Review B* **97**, 054307, 2018.  
+- **Demonstrating an In Situ Topological Band Transition in Granular Crystals,**  
+  *Physical Review Letters* **119**, 024301, 2017.  
+- **Stress Wave Isolation by Purely Mechanical Topological Phononic Crystals,**  
+  *Scientific Reports* **6**, 30662, 2016.  
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
