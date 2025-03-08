@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "3.0.2" # Match GitHub Pages' Ruby version
+
 group :jekyll_plugins do
     gem "jekyll", "3.10.0" # Match GitHub Pages' Jekyll version
     gem 'jekyll-archives'
