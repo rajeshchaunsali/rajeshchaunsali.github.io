@@ -3,16 +3,13 @@
 ---
 @charset "utf-8";
 
-// Jekyll parses {{ site.max_width }} into a valid number (e.g., "1000px")
+// Dimensions
 $max-content-width: {{ site.max_width }};
 
-@use "variables" as vars with (
-  // This "with" block overrides any default in variables
-  $max-content-width: $max-content-width
-);
-
-@use "themes";
-@use "layout";
-@use "base";
-@use "distill";
-
+@import
+  "variables",
+  "themes",
+  "layout",
+  "base",
+  "distill"
+;

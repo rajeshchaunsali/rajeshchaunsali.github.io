@@ -1,65 +1,80 @@
 ---
 layout: page
-title: Vibration and Shock Isolation
-description: lightweight and efficient solutions for isolation
-img: assets/img/research/Project4_front.png
-importance: 4
-category: work
+title: project 4
+description: another without an image
+img:
+importance: 3
+category: fun
 ---
 
-### What’s This About? 
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-This project focuses on developing **next-generation materials for vibration and shock isolation**, addressing critical challenges in **mechanical and aerospace industries**. By leveraging **engineered lattice architectures and metamaterials**, we aim to achieve **precise frequency control, broadband isolation, and lightweight design**, ensuring optimal performance in extreme environments.  
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
----
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
 
-### Why Does It Matter? 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
-Effective vibration isolation and impact mitigation are essential for maintaining **structural integrity and reliability** in high-performance applications. Advanced materials with **high attenuation capability and minimal weight** can significantly enhance **safety, efficiency, and durability** in:  
-
-- **Precision Engineering** – Developing **vibration isolation systems** for **sensitive electronics** in **space missions**, ensuring stability in dynamic conditions.  
-- **Landing Systems** – Designing **shock-absorbing materials** to **withstand extreme impact forces**, improving the resilience of **aircraft and spacecraft**.  
-
-By integrating **nonlinear wave tailoring, metamaterial principles, and multiscale lattice structures**, we aim to develop **adaptive materials** that dynamically respond to **high-impact and vibrational loads**, redefining standards in **aerospace and mechanical engineering**.  
-
----
-
-### What We’re Working on Right Now  
-
-Our research follows a **bottom-up approach** to explore **wave propagation in precisely engineered lattice structures**. Current projects include:  
-
-✔️ **Bandgap Metamaterials** – Designing **stiff, compact, and lightweight structures** with **inertial amplification and local resonators** to achieve **broad low-frequency bandgaps** for elastic waves.  
-
-✔️ **Wave Tailoring via Designed Nonlinearity** – Investigating **tunable nonlinear architectures** (e.g., **granular, woodpile, and origami lattices**) that enable **adjustable nonlinearity at the building-block level** to achieve **targeted wave attenuation properties**.  
-
----
-
-### Want to Join Us?
-
-We are looking for a **motivated graduate student** to join our research on advanced metamaterials. This opportunity provides hands-on experience in:  
-
-🚀 **Computational & Theoretical Modeling** – Investigating **linear and nonlinear wave propagation** and developing strategies for **vibration control in complex metamaterials**.  
-
-🛠 **Experimental Techniques** – Fabricating and testing **lattice-based metamaterials**, with hands-on experience in **high-speed imaging** and **Laser Doppler Vibrometry** for precise wave dynamics analysis.  
-
-🔍 **Structural Optimization** – Exploring the interaction between **wave mechanics, material properties, and structural design**, with a focus on **solving inverse problems for optimized architectures**.  
-
-If you're passionate about **cutting-edge research in wave mechanics and metamaterials**, let’s discuss how you can contribute!   
-
-
----
-  
-### Recent Publications  
- 
-- **Gradient-Index Granular Crystals: From Boomerang Motion to Asymmetric Transmission of Waves,**  
-  *Physical Review Letters* **123**, 214301, 2019.  
-- **Elastic Wannier-Stark Ladders and Bloch Oscillations in 1D Granular Crystals,**  
-  *Journal of Applied Physics* **123**, 104904, 2018.  
-- **Demonstration of Accelerating and Decelerating Nonlinear Impulse Waves in Functionally Graded Granular Chains,**  
-  *Philosophical Transactions of the Royal Society A* **376** (2127), 20170136, 2018   
-- **Extreme Control of Impulse Transmission by Cylinder-Based Nonlinear Phononic Crystals,**  
-  *Journal of the Mechanics and Physics of Solids* **107**, 21-32, 2017.  
-- **Nonlinear Low-to-High Frequency Energy Cascades in Diatomic Granular Crystals,**  
-  *Physical Review E* **92**, 062201, 2015.  
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
+
+The code is simple.
+Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
+To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
+Here's the code for the last row of images above:
+
+{% raw %}
+```html
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+```
+{% endraw %}

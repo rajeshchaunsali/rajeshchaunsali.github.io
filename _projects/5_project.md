@@ -1,51 +1,80 @@
 ---
 layout: page
-title: Flow Control w/ Metamaterial
-description: new pathways for flow control
-img: assets/img/research/Project5_front.jpeg
-importance: 5
+title: project 5
+description: a project with a background image
+img: assets/img/1.jpg
+importance: 3
 category: fun
 ---
 
-### What’s This About? 
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-Flow control is a fundamental challenge in **aerospace engineering**, particularly in **reducing drag, noise, and flow instabilities** in high-speed regimes. Traditional methods for controlling **boundary-layer instabilities and shock waves** rely on **passive or active flow modification techniques**. In contrast, **metamaterials offer a tunable, physics-driven approach** to manipulating **fluid–structure interactions**, enabling **precise wave control and aerodynamic performance**.  
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
----
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
 
-### Why Does It Matter?
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
-Our approach leverages **metamaterials for broadband frequency isolation**, introducing a **transformative paradigm** in flow control with key applications in:  
-
-- **Sustainable Aviation** – Suppressing **flow instabilities** to reduce **drag, fuel consumption, and aerodynamic inefficiencies**.  
-- **Hypersonic Flight** – Engineering materials that **interact with shock waves**, enhancing **vehicle stability and control** under extreme conditions.  
-- **Noise Reduction** – Developing **adaptive flow-control materials** to **minimize turbulence-induced noise** and optimize performance in **next-generation air vehicles**.  
-
-By integrating **fluid–structure interactions with advanced metamaterial physics**, we aim to design **smart, tunable subsurface metamaterials** that dynamically **respond to changing flow conditions**, leading to **significant improvements in aerodynamic efficiency**.  
-
----
-
-### What We’re Working on Right Now  
-
-Our research combines **experimental and computational approaches** to investigate the role of **structured metamaterials in flow control**, in collaboration with experts in **aerodynamics and fluid–structure interactions**. Current projects include:  
-
-✔️ **Metamaterial-Driven Boundary Layer Control** – Developing **subsurface phononic crystals and metasurfaces** to **suppress instability growth** and **delay turbulence onset**.  
-
-✔️ **Hypersonic Flow Interaction with Metamaterials** – Designing and testing **engineered prototypes** under **high-speed flow conditions** to study their effect on **shock wave control and flow stability**.  
-
-✔️ **Tunable Subsurface Metamaterials** – Exploring **adaptive materials** that **actively respond to flow conditions**, enabling **real-time aerodynamic optimization**.  
-
----
-
-### Want to Join Us? 
-
-We are looking for a **motivated graduate student** to join our **cutting-edge research** at the intersection of **fluid mechanics and metamaterials**. This opportunity provides hands-on experience in:  
-
-✔️ **Wave Propagation in Materials** – Investigating **wave behavior under aerodynamic loading** to enhance flow control and instability mitigation.  
-🚀 **Computational Fluid Dynamics & Simulations** – Analyzing **fluid–structure interactions and flow instabilities** in **metamaterial-based systems**.  
-🛠 **Experimental Techniques** – Designing, fabricating, and testing **subsurface metamaterials** in **wind tunnel and hypersonic flow environments**.  
-
-If you're excited about **advancing aerodynamic control through metamaterials**, let's discuss how you can contribute! 🚀  
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
 
+
+The code is simple.
+Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
+To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
+Here's the code for the last row of images above:
+
+{% raw %}
+```html
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+```
+{% endraw %}

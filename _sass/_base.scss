@@ -4,8 +4,6 @@
 
 // Typography
 
-@use "variables" as vars;
-
 body {
   font-family: 'sans-serif', Helvetica, monospace;
 }
@@ -398,11 +396,11 @@ footer.sticky-bottom {
     .page-link {
       color: var(--global-text-color);
       &:hover {
-        color: #{vars.$black-color};
+        color: $black-color;
       }
     }
     &.active .page-link {
-      color: #{vars.$white-color};
+      color: $white-color;
       background-color: var(--global-theme-color);
       &:hover {
         background-color: var(--global-theme-color);
