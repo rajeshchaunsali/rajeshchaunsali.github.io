@@ -192,7 +192,7 @@ A glimpse into our lab's journey—celebrating milestones, achievements, and sha
 #### **📸 Group Photo, April 2023**  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/group/Team_2023_04.jpg" title="Group Photo, April 2023" class="img-fluid  z-depth-0" %}
+        {% include figure.html path="assets/img/group/Team_2023_04.JPG" title="Group Photo, April 2023" class="img-fluid  z-depth-0" %}
     </div>
 </div>
 
