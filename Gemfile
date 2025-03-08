@@ -1,12 +1,13 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
-    gem "jekyll", "3.10.0" # Match GitHub Pages' Jekyll version
+    gem "jekyll"
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-imagemagick'
+    gem "kramdown-parser-gfm"
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
