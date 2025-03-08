@@ -1,38 +1,18 @@
 ---
-layout: about
-title: About
+layout: page
+title: Laboratory for Engineered Materials & Structures
 permalink: /
 description: 
 
-profile:
-  align: right
-  image: RajeshChaunsali.jpg
-  address: <p>rchaunsali[at]iisc[dot]ac[dot]in</p>
-  
-
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of [Aerospace Engineering](http://aero.iisc.ac.in/) at the Indian Institute of Science (IISc). My research lies at the intersection of physics and engineering, where I am broadly interested in understanding and controlling the wave propagation in engineered materials such as metamaterials. Please find my full CV [here](assets/pdf/CV.pdf).
 
-##### Educational History
-* Ph.D., Aeronautics and Astronautics (2014--2018)  
-[University of Washington, Seattle](https://www.washington.edu/){:target="\_blank"}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FrontMatter.png" title="example image" class="img-fluid rounded z-depth-0" %}
+    </div>
+</div>
 
-* B.Tech. & M.Tech., Mechanical Engineering (2007--2012)  
-[Indian Institute of Technology Madras](https://www.iitm.ac.in/){:target="\_blank"}
+<br>
 
-
-##### Professional History
-
-* [Indian Institute of Science](https://www.iisc.ac.in/){:target="\_blank"}, Bengaluru (2021--present)  
-Assistant Professor, Department of Aerospace Engineering
-
-* [LAUM](http://www.univ-lemans.fr/en/research/laboratories/laum.html){:target="\_blank"}, CNRS (2018--2021)  
-Postdoctoral Fellow
-
-* [GE Aviation](https://www.geaviation.com/){:target="\_blank"}, Bengaluru (2012--2014)  
-Edison Engineer
+The Laboratory for Engineered Materials & Structures (LEMS) in the [Department of Aerospace Engineering](https://aero.iisc.ac.in/) at the Indian Institute of Science (IISc) specializes in designing advanced materials and structures with unconventional mechanical responses. Our research leverages **geometry**, **symmetry**, and **structural interactions** to tailor material behavior under dynamic loading conditions, such as vibrations and wave propagation. By employing a **physics-based**, **bottom-up** approach, we develop nontrivial building blocks that surpass the capabilities of traditional materials. Integrating theoretical modeling, numerical simulations, and experimental validation, we advance the fundamental understanding of engineered systems and innovate solutions for aerospace, mechanical, and related engineering applications.
