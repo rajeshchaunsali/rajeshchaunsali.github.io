@@ -25,17 +25,15 @@ We invite applications from **highly motivated researchers** interested in **the
 
 Outstanding candidates may be considered for the following **internal fellowships**:  
 
-- [C V Raman Post-Doctoral Fellowship](https://iisc.ac.in/post-docs/){:target="\_blank"}  
+- [IISc Post-Doctoral Fellowship (IPDF)](https://iisc.ac.in/careers/post-doctoral-fellowship/){:target="\_blank"}  
 - [Axis Bank Post-Doctoral Fellowship](https://abcmc.iisc.ac.in/events/){:target="\_blank"}  
 
 Additionally, candidates may explore **external funding opportunities** such as:  
 
-- [Common Fellowship Portal](https://fellowships.gov.in/)  
 - [National Post-Doctoral Fellowship](https://anrfonline.in/ANRF/npdf?HomePage=New)  
+- [Common Fellowship Portal](https://fellowships.gov.in/)  
 - [CSIR Yuva Portal](https://srfra.csirhrdg.res.in/online/control?_inx)  
 - [NBHM Post-Doctoral Fellowship](http://www.nbhm.dae.gov.in/postdoct.html)  
-- [Women in Science and Engineering](https://online-wosa.gov.in/wosa/aboutUsPDF)  
-- [Dr. S. Radhakrishnan Post-Doctoral Fellowship](https://frg.ugc.ac.in/Home)  
 
 📩 **Apply [here](https://forms.office.com/r/ENUdPf4FYm)** to initiate a discussion.  
 

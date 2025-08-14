@@ -8,7 +8,7 @@ idx: [1, 2]
 nav: true
 ---
 
-For citation information, please visit my Google Scholar [page](https://scholar.google.com/citations?user=_AYu5NMAAAAJ&hl=en&oi=ao){:target="\_blank"}.
+For most up-to-date information, please visit my Google Scholar [page](https://scholar.google.com/citations?user=_AYu5NMAAAAJ&hl=en&oi=ao){:target="\_blank"}.
 
 <div class="publications">
 

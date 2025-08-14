@@ -6,6 +6,12 @@ description:
 nav: true
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/teaching/class.jpeg" title="class" class="img-fluid z-depth-0" %}
+    </div>
+</div>
+
 We are dedicated to **engaging students** in both **fundamental and advanced topics** in Aerospace Engineering and related fields. Our courses emphasize **mathematical rigor, physical intuition, and real-world applications**, equipping students with the necessary tools to tackle complex engineering challenges.  
 
 Below is an overview of the **graduate-level courses** offered:  

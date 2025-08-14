@@ -60,11 +60,13 @@ If you’re curious about **how we can shape materials to control energy in unpr
 
 #### Hidden Topology 
 - **Edge States with Hidden Topology in Spinner Lattices,**  
-  *Communications Physics* (accepted).  
+  *Communications Physics* **8**, 83, 2025.  
 - **Strain Topological Metamaterials and Revealing Hidden Topology in Higher-Order Coordinates,**  
   *Nature Communications* **14**, 6633, 2023.  
 
 #### Topology & Nonlinearity
+- **Nonlinearity-induced corner states in a kagome lattice,**  
+  *New Journal of Physics* **27**, 083501, 2025. 
 - **Nonlinear Corner States in a Topologically Nontrivial Kagome Lattice,**  
   *Physical Review B* **110**, 104307, 2024.  
 - **Dirac Solitons and Topological Edge States in the β-Fermi-Pasta-Ulam-Tsingou Dimer Lattice,**  

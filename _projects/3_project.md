@@ -48,7 +48,8 @@ If you're excited about shaping the future of **wave control** through **intelli
 
 ### Recent Publications  
 
-- **Coming soon**  
+- **Wave propagation in an elastic lattice with non-reciprocal stiffness and engineered damping,**  
+  arXiv preprint arXiv:2507.23761, 2025.
 
 
 

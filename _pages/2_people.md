@@ -53,36 +53,11 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Anshuman.jpg' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Anshuman <br>
-         M.Tech. student <br>
-          anshuman2023 at iisc.ac.in <br>
-         <a href="/assets/pdf/CV_Anshuman.pdf" class="link">CV</a>
-        </div>
-    </div>
-
-     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Ramya.jpg' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Kapila Ramya Krishna <br>
-         M.Tech. student <br>
-          kapilaramya at iisc.ac.in <br>
-         <a href="/assets/pdf/CV_Ramya.pdf" class="link">CV</a>
-        </div>
-    </div>
-
-
-
-
-</div>
-
-<div class="row">
-
-    <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Irfan.jpg' | relative_url }}" alt="" title="example image" /> 
-        <div class="caption text-left">Murthaza Irfan A V <br>
-         Project Associate <br>
-          murthazaa at iisc ac in <br>
-         <a href="/assets/pdf/CV_Irfan.pdf" class="link">CV</a>
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Jayalakshmi.jpg' | relative_url }}" alt="" title="example image" /> 
+        <div class="caption text-left">Jayalakshmi K <br>
+         M.Tech. (Research) student <br>
+          jayalakshmik at iisc.ac.in <br>
+         <a href="/assets/pdf/CV_Jayalakshmi.pdf" class="link">CV</a>
         </div>
     </div>
 
@@ -95,14 +70,9 @@ nav: true
         </div>
     </div>
 
-    <div class="col-sm mt-4 mt-md-0">
- 
-    </div>
-
   
 
 </div>
-
 
 
 ---
@@ -116,11 +86,14 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 - **Anusree Ray** (June 2022 – Dec 2024) → **University of Galway, Ireland**  
 
 ##### **Graduate Students**  
-- **Udbhav Viswakarma** (M.Tech. Research, Aug 2021 – Nov 2024) → **Project Associate, IISc**  
-- **Panchal A. Jayeshbhai** (M.Tech., Aug 2022 – June 2024) → **Ola**  
-- **Govardhan K** (M.Tech., Aug 2022 – June 2024) → **Directorate General of Civil Aviation**  
+- **Anshuman** (M.Tech., Aug 2023 – June 2025) → **DRDO** 
+- **Kapila Ramya Krishna** (M.Tech., Aug 2023 – June 2025) → **Triveni Turbine Limited** 
+- **Udbhav Viswakarma** (M.Tech. Research, Aug 2021 – Nov 2024) → **Georgia Institute of Technology, USA**  
+- **Panchal A. Jayeshbhai** (M.Tech., Aug 2022 – June 2024) → **Ola Electric**  
+- **Govardhan K** (M.Tech., Aug 2022 – June 2024) → **DRDO**  
 
 ##### **Project Associates**  
+- **Murthaza Irfan A V** (Oct 2022 -- June 2025)  → **King Abdullah University of Science and Technology, Saudi Arabia** 
 - **Saurav Dutta** (June 2023 – July 2024) → **Project Associate, IISc**  
 - **Ahamed Ali N** (July 2023 – June 2024) → **Johns Hopkins University, USA**  
 - **Mohit Dhanda** (June 2022 – Nov 2022) → **University of Waterloo, Canada**  
@@ -128,6 +101,8 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 - **Johnson Adams PS** (Dec 2021 – July 2022) → **Columbia University, USA**  
 
 ##### **Visiting Scholars & Interns**  
+- **Vaishnavi Vijay Devgire** (Intern, May 2025 – July 2025)  
+- **Adinarayan Agaram** (Intern, May 2025 – July 2025)  
 - **Avinash Umashankar** (Intern, Jan 2024 – May 2024)  
 - **Ankush Yadav** (Visiting Scholar, Nov 2023 – Feb 2024)  
 - **Vikramaditya Agrawal** (Intern, May 2023 – July 2023)  
@@ -141,8 +116,36 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 
 A glimpse into our lab's journey—celebrating milestones, achievements, and shared moments.
 
+#### **📸 CISM-IISc Workshop, July 2025**  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group/Team_2025_08.jpeg" title="CISM-IISc Workshop, July 2025" class="img-fluid  z-depth-0" %}
+    </div>
+</div>
+**First-ever collaborative [workshop](https://aero.iisc.ac.in/news-events/cism-iisc-workshop/) between the International Centre for Mechanical Sciences (CISM), Italy, and the Indian Institute of Science (IISc), Bangalore, was conducted at Department of Aerospace Engineering. Many thanks to LEMS members for volunteering.**
 
-#### **📸 Group Lunch, December 2024**  
+---
+
+#### **🎓Convocation, July 2025**  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group/Team_2025_07b.jpeg" title="Convocation, July 2025" class="img-fluid  z-depth-0" %}
+    </div>
+</div>
+**Congratulations to Udbhav, Govardhan, and Panchal on earning their graduate degrees from the Indian Institute of Science.**  
+
+---
+
+#### **🍽️ Group Lunch, July 2025**  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group/Team_2025_07a.jpeg" title="Group Lunch, July 2025" class="img-fluid  z-depth-0" %}
+    </div>
+</div>
+
+---
+
+#### **🍽️ Group Lunch, December 2024**  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2024_12.jpeg" title="Group Lunch, Dec 2024" class="img-fluid  z-depth-0" %}
