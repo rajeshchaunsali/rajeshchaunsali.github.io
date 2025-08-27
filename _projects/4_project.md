@@ -9,42 +9,42 @@ category: work
 
 ### What’s This About? 
 
-This project focuses on developing **next-generation materials for vibration and shock isolation**, addressing critical challenges in **mechanical and aerospace industries**. By leveraging **engineered lattice architectures and metamaterials**, we aim to achieve **precise frequency control, broadband isolation, and lightweight design**, ensuring optimal performance in extreme environments.  
+This project focuses on developing next-generation materials for vibration and shock isolation, addressing critical challenges in mechanical and aerospace industries. By leveraging engineered lattice architectures and metamaterials, we aim to achieve precise frequency control, broadband isolation, and lightweight design, ensuring optimal performance in extreme environments.  
 
 ---
 
 ### Why Does It Matter? 
 
-Effective vibration isolation and impact mitigation are essential for maintaining **structural integrity and reliability** in high-performance applications. Advanced materials with **high attenuation capability and minimal weight** can significantly enhance **safety, efficiency, and durability** in:  
+Effective vibration isolation and impact mitigation are essential for maintaining structural integrity and reliability in high-performance applications. Advanced materials with high attenuation capability and minimal weight can significantly enhance safety, efficiency, and durability in:  
 
-- **Precision Engineering** – Developing **vibration isolation systems** for **sensitive electronics** in **space missions**, ensuring stability in dynamic conditions.  
-- **Landing Systems** – Designing **shock-absorbing materials** to **withstand extreme impact forces**, improving the resilience of **aircraft and spacecraft**.  
+- **Precision Engineering** – Developing vibration isolation systems for sensitive electronics in space missions, ensuring stability in dynamic conditions.  
+- **Landing Systems** – Designing shock-absorbing materials to withstand extreme impact forces, improving the resilience of aircraft and spacecraft.  
 
-By integrating **nonlinear wave tailoring, metamaterial principles, and multiscale lattice structures**, we aim to develop **adaptive materials** that dynamically respond to **high-impact and vibrational loads**, redefining standards in **aerospace and mechanical engineering**.  
+By integrating nonlinear wave tailoring, metamaterial principles, and multiscale lattice structures, we aim to develop adaptive materials that dynamically respond to high-impact and vibrational loads, redefining standards in aerospace and mechanical engineering.  
 
 ---
 
 ### What We’re Working on Right Now  
 
-Our research follows a **bottom-up approach** to explore **wave propagation in precisely engineered lattice structures**. Current projects include:  
+Our research follows a bottom-up approach to explore wave propagation in precisely engineered lattice structures. Current projects include:  
 
-✔️ **Bandgap Metamaterials** – Designing **stiff, compact, and lightweight structures** with **inertial amplification and local resonators** to achieve **broad low-frequency bandgaps** for elastic waves.  
+✔️ **Bandgap Metamaterials** – Designing stiff, compact, and lightweight structures with inertial amplification and local resonators to achieve broad low-frequency bandgaps for elastic waves.  
 
-✔️ **Wave Tailoring via Designed Nonlinearity** – Investigating **tunable nonlinear architectures** (e.g., **granular, woodpile, and origami lattices**) that enable **adjustable nonlinearity at the building-block level** to achieve **targeted wave attenuation properties**.  
+✔️ **Wave Tailoring via Designed Nonlinearity** – Investigating tunable nonlinear architectures (e.g., granular, woodpile, and origami lattices) that enable adjustable nonlinearity at the building-block level to achieve targeted wave attenuation properties.  
 
 ---
 
 ### Want to Join Us?
 
-We are looking for a **motivated graduate student** to join our research on advanced metamaterials. This opportunity provides hands-on experience in:  
+We are looking for a motivated graduate student to join our research on advanced metamaterials. This opportunity provides hands-on experience in:  
 
-🚀 **Computational & Theoretical Modeling** – Investigating **linear and nonlinear wave propagation** and developing strategies for **vibration control in complex metamaterials**.  
+🚀 **Computational & Theoretical Modeling** – Investigating linear and nonlinear wave propagation and developing strategies for vibration control in complex metamaterials.  
 
-🛠 **Experimental Techniques** – Fabricating and testing **lattice-based metamaterials**, with hands-on experience in **high-speed imaging** and **Laser Doppler Vibrometry** for precise wave dynamics analysis.  
+🛠 **Experimental Techniques** – Fabricating and testing lattice-based metamaterials, with hands-on experience in high-speed imaging and Laser Doppler Vibrometry for precise wave dynamics analysis.  
 
-🔍 **Structural Optimization** – Exploring the interaction between **wave mechanics, material properties, and structural design**, with a focus on **solving inverse problems for optimized architectures**.  
+🔍 **Structural Optimization** – Exploring the interaction between wave mechanics, material properties, and structural design, with a focus on solving inverse problems for optimized architectures.  
 
-If you're passionate about **cutting-edge research in wave mechanics and metamaterials**, let’s discuss how you can contribute!   
+If you're passionate about cutting-edge research in wave mechanics and metamaterials, let’s discuss how you can contribute!   
 
 
 ---

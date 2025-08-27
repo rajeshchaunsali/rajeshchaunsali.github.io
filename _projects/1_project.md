@@ -9,7 +9,7 @@ category: work
 
 ### What’s This About?
 
-Metamaterials are **engineered materials** designed to exhibit **unconventional properties** that do not exist in nature. A key frontier in this field is **topological metamaterials**—structures where **energy behaves in robust and unexpected ways**. Unlike conventional materials, their unique properties arise from the **topology of wave dispersion**, enabling precise **energy localization and guidance**.  
+Metamaterials are engineered materials designed to exhibit unconventional properties that do not exist in nature. A key frontier in this field is topological metamaterials—structures where energy behaves in robust and unexpected ways. Unlike conventional materials, their unique properties arise from the topology of wave dispersion, enabling precise energy localization and guidance.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,39 +21,39 @@ Metamaterials are **engineered materials** designed to exhibit **unconventional 
 
 ### Why Does It Matter? 
 
-Can we **engineer materials that trap and direct vibrations with precision**? If so, we open up **new possibilities for energy manipulation**, paving the way for **smarter materials** in:  
+Can we engineer materials that trap and direct vibrations with precision? If so, we open up new possibilities for energy manipulation, paving the way for smarter materials in:  
 
 - **Efficient Signal Processing** – Enhancing wave control for improved communication and sensing.  
 - **Energy Harvesting** – Capturing and converting mechanical energy more effectively.  
 - **Unconventional Computing** – Leveraging wave-based information processing for novel computing architectures.  
 
-By mastering **vibration and wave control at the fundamental level**, topological metamaterials have the potential to **transform applications in aerospace, robotics, and quantum technologies**.  
+By mastering vibration and wave control at the fundamental level, topological metamaterials have the potential to transform applications in aerospace, robotics, and quantum technologies.  
 
 
 ---
 
 ### What We’re Working on Right Now  
 
-Our research explores **whether novel topological phenomena emerges in different types of systems**, including:  
+Our research explores whether novel topological phenomena emerges in different types of systems, including:  
 
 ✔️ **Periodic and quasi-periodic lattices** (patterned structures)  
 ✔️ **Disordered systems** (how randomness affects wave behavior)  
 ✔️ **Driven and lossy systems** (energy input/output dynamics)  
 ✔️ **Nonlinear materials** (new physics beyond traditional limits)  
 
-We’re pushing the boundaries of **engineering and physics** to develop **novel architectures** for future applications.  
+We’re pushing the boundaries of engineering and physics to develop novel architectures for future applications.  
 
 ---
 
 ### Want to Join Us?  
 
-We’re looking for a **motivated graduate student** to dive into this cutting-edge field. Here, you’ll gain skills in:  
+We’re looking for a motivated graduate student to dive into this cutting-edge field. Here, you’ll gain skills in:  
 
 🚀 **Computational modeling & simulations**  
 🛠 **Experimental techniques for wave physics**  
 🔍 **Analytical methods in topological mechanics**  
 
-If you’re curious about **how we can shape materials to control energy in unprecedented ways**, let’s talk!  
+If you’re curious about how we can shape materials to control energy in unprecedented ways, let’s talk!  
 
 ---
 ### Recent Publications
