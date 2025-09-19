@@ -81,26 +81,26 @@ nav: true
 
 Our alumni have gone on to pursue exciting opportunities in academia, industry, and research institutions worldwide.  
 
-##### **Postdoctoral Researchers**  
-- **Prabith K** (June 2022 – Dec 2024) → **CNRS, France**  
-- **Anusree Ray** (June 2022 – Dec 2024) → **University of Galway, Ireland**  
+##### Postdoctoral Researchers  
+- **Prabith K** (June 2022 – Dec 2024) → CNRS, France
+- **Anusree Ray** (June 2022 – Dec 2024) → University of Galway, Ireland 
 
-##### **Graduate Students**  
-- **Anshuman** (M.Tech., Aug 2023 – June 2025) → **DRDO** 
-- **Kapila Ramya Krishna** (M.Tech., Aug 2023 – June 2025) → **Triveni Turbine Limited** 
-- **Udbhav Viswakarma** (M.Tech. Research, Aug 2021 – Nov 2024) → **Georgia Institute of Technology, USA**  
-- **Panchal A. Jayeshbhai** (M.Tech., Aug 2022 – June 2024) → **Ola Electric**  
-- **Govardhan K** (M.Tech., Aug 2022 – June 2024) → **DRDO**  
+##### Graduate Students  
+- **Anshuman** (M.Tech., Aug 2023 – June 2025) → DRDO 
+- **Kapila Ramya Krishna** (M.Tech., Aug 2023 – June 2025) → Triveni Turbine Limited
+- **Udbhav Viswakarma** (M.Tech. Research, Aug 2021 – Nov 2024) → Georgia Institute of Technology, USA 
+- **Panchal A. Jayeshbhai** (M.Tech., Aug 2022 – June 2024) → Ola Electric  
+- **Govardhan K** (M.Tech., Aug 2022 – June 2024) → DRDO  
 
-##### **Project Associates**  
-- **Murthaza Irfan A V** (Oct 2022 -- June 2025)  → **King Abdullah University of Science and Technology, Saudi Arabia** 
-- **Saurav Dutta** (June 2023 – July 2024) → **Project Associate, IISc**  
-- **Ahamed Ali N** (July 2023 – June 2024) → **Johns Hopkins University, USA**  
-- **Mohit Dhanda** (June 2022 – Nov 2022) → **University of Waterloo, Canada**  
-- **Renganath Rengarajan** (May 2022 – Nov 2022) → **Airbus**  
-- **Johnson Adams PS** (Dec 2021 – July 2022) → **Columbia University, USA**  
+##### Project Associates  
+- **Murthaza Irfan A V** (Oct 2022 -- June 2025)  → King Abdullah University of Science and Technology, Saudi Arabia
+- **Saurav Dutta** (June 2023 – July 2024) → Vizuara AI Labs 
+- **Ahamed Ali N** (July 2023 – June 2024) → Johns Hopkins University, USA  
+- **Mohit Dhanda** (June 2022 – Nov 2022) → University of Waterloo, Canada  
+- **Renganath Rengarajan** (May 2022 – Nov 2022) → Airbus 
+- **Johnson Adams PS** (Dec 2021 – July 2022) → Columbia University, USA 
 
-##### **Visiting Scholars & Interns**  
+##### Visiting Scholars & Interns  
 - **Vaishnavi Vijay Devgire** (Intern, May 2025 – July 2025)  
 - **Adinarayan Agaram** (Intern, May 2025 – July 2025)  
 - **Avinash Umashankar** (Intern, Jan 2024 – May 2024)  
@@ -112,31 +112,31 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 
 ---
 
-### **Group Pictures**  
+### Group Pictures  
 
 A glimpse into our lab's journey—celebrating milestones, achievements, and shared moments.
 
-#### **📸 CISM-IISc Workshop, July 2025**  
+#### CISM-IISc Workshop, July 2025 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2025_08.jpeg" title="CISM-IISc Workshop, July 2025" class="img-fluid  z-depth-0" %}
     </div>
 </div>
-**First-ever collaborative [workshop](https://aero.iisc.ac.in/news-events/cism-iisc-workshop/) between the International Centre for Mechanical Sciences (CISM), Italy, and the Indian Institute of Science (IISc), Bangalore, was conducted at Department of Aerospace Engineering. Many thanks to LEMS members for volunteering.**
+First-ever collaborative [workshop](https://aero.iisc.ac.in/news-events/cism-iisc-workshop/) between the International Centre for Mechanical Sciences (CISM), Italy, and the Indian Institute of Science (IISc), Bangalore, was conducted at Department of Aerospace Engineering. Many thanks to the LEMS members for their volunteering efforts.
 
 ---
 
-#### **🎓Convocation, July 2025**  
+#### Convocation, July 2025  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2025_07b.jpeg" title="Convocation, July 2025" class="img-fluid  z-depth-0" %}
     </div>
 </div>
-**Congratulations to Udbhav, Govardhan, and Panchal on earning their graduate degrees from the Indian Institute of Science.**  
+Congratulations to Udbhav, Govardhan, and Panchal on earning their graduate degrees from the Indian Institute of Science.  
 
 ---
 
-#### **🍽️ Group Lunch, July 2025**  
+#### Group Lunch, July 2025 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2025_07a.jpeg" title="Group Lunch, July 2025" class="img-fluid  z-depth-0" %}
@@ -145,7 +145,7 @@ A glimpse into our lab's journey—celebrating milestones, achievements, and sha
 
 ---
 
-#### **🍽️ Group Lunch, December 2024**  
+#### Group Lunch, December 2024 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2024_12.jpeg" title="Group Lunch, Dec 2024" class="img-fluid  z-depth-0" %}
@@ -154,17 +154,17 @@ A glimpse into our lab's journey—celebrating milestones, achievements, and sha
 
 ---
 
-#### **🎓 M.Tech. (Research) Thesis Defense, November 2024**  
+#### M.Tech. (Research) Thesis Defense, November 2024  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2024_11.jpeg" title="Thesis Defense, Nov 2024" class="img-fluid  z-depth-0" %}
     </div>
 </div>
-**Udbhav defending his M.Tech. (Research) thesis.**  
+Udbhav defending his M.Tech. (Research) thesis.  
 
 ---
 
-#### **🍽️ Group Lunch, July 2024**  
+#### Group Lunch, July 2024  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2024_07.jpeg" title="Group Lunch, July 2024" class="img-fluid  z-depth-0" %}
@@ -173,17 +173,17 @@ A glimpse into our lab's journey—celebrating milestones, achievements, and sha
 
 ---
 
-#### **🔬 Lab Demonstration, June 2024**  
+#### Lab Demonstration, June 2024  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2024_06.jpeg" title="Lab Demonstration, June 2024" class="img-fluid  z-depth-0" %}
     </div>
 </div>
-**High-school students, Manjot Singh and Karthikey Kunwar, showcasing their work as part of the IISc-Agastya Science Enrichment Program.**  
+High-school students, Manjot Singh and Karthikey Kunwar, showcasing their work as part of the IISc-Agastya Science Enrichment Program. 
 
 ---
 
-#### **🍽️ Group Dinner, May 2024**  
+#### Group Dinner, May 2024  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2024_05.jpeg" title="Group Dinner, May 2024" class="img-fluid  z-depth-0" %}
@@ -192,7 +192,7 @@ A glimpse into our lab's journey—celebrating milestones, achievements, and sha
 
 ---
 
-#### **📸 Group Photo, April 2023**  
+#### Group Photo, April 2023  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2023_04.JPG" title="Group Photo, April 2023" class="img-fluid  z-depth-0" %}
@@ -201,7 +201,7 @@ A glimpse into our lab's journey—celebrating milestones, achievements, and sha
 
 ---
 
-#### **📖 Group Meeting, August 2022**  
+#### Group Meeting, August 2022  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2022_09.jpeg" title="Group Meeting, Aug 2022" class="img-fluid  z-depth-0" %}
@@ -210,7 +210,7 @@ A glimpse into our lab's journey—celebrating milestones, achievements, and sha
 
 ---
 
-#### **🍽️ Group Dinner, August 2022**  
+#### Group Dinner, August 2022  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/group/Team_2022_08.jpg" title="Group Dinner, Aug 2022" class="img-fluid  z-depth-0" %}

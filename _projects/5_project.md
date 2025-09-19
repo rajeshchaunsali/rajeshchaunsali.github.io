@@ -7,45 +7,39 @@ importance: 5
 category: fun
 ---
 
-### What’s This About? 
+### What's this about?
 
-Flow control is a fundamental challenge in aerospace engineering, particularly in reducing drag, noise, and flow instabilities in high-speed regimes. Traditional methods for controlling boundary-layer instabilities and shock waves rely on passive or active flow modification techniques. In contrast, metamaterials offer a tunable, physics-driven approach to manipulating fluid–structure interactions, enabling precise wave control and aerodynamic performance.  
-
----
-
-### Why Does It Matter?
-
-Our approach leverages metamaterials for broadband frequency isolation, introducing a transformative paradigm in flow control with key applications in:  
-
-- **Sustainable Aviation** – Suppressing flow instabilities to reduce drag, fuel consumption, and aerodynamic inefficiencies.  
-- **Hypersonic Flight** – Engineering materials that interact with shock waves, enhancing vehicle stability and control under extreme conditions.  
-- **Noise Reduction** – Developing adaptive flow-control materials to minimize turbulence-induced noise and optimize performance in next-generation air vehicles.  
-
-By integrating fluid–structure interactions with advanced metamaterial physics, we aim to design smart, tunable subsurface metamaterials that dynamically respond to changing flow conditions, leading to significant improvements in aerodynamic efficiency.  
+Flow control is a fundamental challenge in aerospace engineering, particularly in reducing drag, noise, and flow instabilities in high-speed regimes. Traditional methods for controlling boundary-layer instabilities and shock waves rely on passive or active flow modification techniques. In contrast, metamaterials offer a tunable, physics-driven approach to manipulating fluid-structure interactions, enabling precise wave control and aerodynamic performance.
 
 ---
 
-### What We’re Working on Right Now  
+### Why does it matter?
 
-Our research combines experimental and computational approaches to investigate the role of structured metamaterials in flow control, in collaboration with experts in aerodynamics and fluid–structure interactions. Current projects include:  
+Our approach leverages metamaterials for broadband frequency isolation, introducing a transformative paradigm for flow control with key applications in:
 
-✔️ **Metamaterial-Driven Boundary Layer Control** – Developing subsurface phononic crystals and metasurfaces to suppress instability growth and delay turbulence onset.  
+-   Sustainable aviation, by suppressing flow instabilities to reduce drag, fuel consumption, and aerodynamic inefficiencies.
+-   Hypersonic flight, which involves engineering materials that interact with shock waves to enhance vehicle stability and control under extreme conditions.
+-   Noise reduction, through the development of adaptive flow-control materials that minimize turbulence-induced noise and optimize performance in next-generation air vehicles.
 
-✔️ **Hypersonic Flow Interaction with Metamaterials** – Designing and testing engineered prototypes under high-speed flow conditions to study their effect on shock wave control and flow stability.  
-
-✔️ **Tunable Subsurface Metamaterials** – Exploring adaptive materials that actively respond to flow conditions, enabling real-time aerodynamic optimization.  
+By integrating fluid-structure interactions with advanced metamaterial physics, we aim to design smart, tunable subsurface metamaterials that dynamically respond to changing flow conditions, leading to significant improvements in aerodynamic efficiency.
 
 ---
 
-### Want to Join Us? 
+### What we're working on right now
 
-We are looking for motivated graduate students to join this research at the intersection of fluid mechanics and metamaterials. This opportunity provides hands-on experience in:  
+Our research combines experimental and computational approaches to investigate the role of structured metamaterials in flow control, in collaboration with experts in aerodynamics and fluid-structure interactions. Current projects include:
 
-✔️ **Wave Propagation in Materials** – Investigating wave behavior under aerodynamic loading to enhance flow control and instability mitigation.  
-🚀 **Computational Fluid Dynamics & Simulations** – Analyzing fluid–structure interactions and flow instabilities in metamaterial-based systems.  
-🛠 **Experimental Techniques** – Designing, fabricating, and testing subsurface metamaterials in wind tunnel and hypersonic flow environments.  
+-   Metamaterial-driven boundary layer control, which involves developing subsurface phononic crystals and metasurfaces to suppress instability growth and delay turbulence onset.
+-   Hypersonic flow interaction with metamaterials, where we design and test engineered prototypes under high-speed flow conditions to study their effect on shock wave control and flow stability.
 
-If you're excited about advancing aerodynamic control through metamaterials, let's discuss how you can contribute! 🚀  
+---
 
+### Want to join us?
 
+We are looking for motivated graduate students to join this research at the intersection of fluid mechanics and metamaterials. This opportunity provides hands-on experience in:
 
+-   Wave propagation in materials, investigating wave behavior under aerodynamic loading to enhance flow control and instability mitigation.
+-   Computational fluid dynamics and simulations, analyzing fluid-structure interactions and flow instabilities in metamaterial-based systems.
+-   Experimental techniques, which includes designing, fabricating, and testing subsurface metamaterials in wind tunnel and hypersonic flow environments.
+
+If you're excited about advancing aerodynamic control through metamaterials, let's discuss how you can contribute!

@@ -73,7 +73,7 @@ We are exploring several exciting research directions, often with overlapping bo
 ---
 
 
-### **Experimental facility** 
+### Experimental facility
 
 The Laboratory for Engineered Materials and Structures (LEMS) is dedicated to the design of phononic crystals and metamaterials, as well as the precise measurement of their vibration and wave properties. The laboratory is equipped with advanced tools, including a laser Doppler vibrometer (LDV), a vibration shaker, a 3D printer, a mini-universal testing machine (mini-UTM), high-frequency piezo-actuators and sensors with associated electronic equipment.
 
@@ -87,7 +87,7 @@ The Laboratory for Engineered Materials and Structures (LEMS) is dedicated to th
 
 ---
 
-### **Our sponsors**
+### Our sponsors
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
