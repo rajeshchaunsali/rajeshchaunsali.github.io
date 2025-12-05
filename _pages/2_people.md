@@ -21,6 +21,15 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Abhigna.jpg' | relative_url }}" alt="" title="example image" /> 
+        <div class="caption text-left">Abhigna Bhatt <br>
+         National Postdoc Fellow ANRF <br>
+         abhigna.bhatt at gmail dot com <br>
+         <a href="/assets/pdf/CV_Abhigna.pdf" class="link">CV</a>
+        </div>
+    </div>
+
+    <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Harshit.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Harshit Kumar Sandhu <br>
          Ph.D. student <br>
@@ -28,6 +37,12 @@ nav: true
          <a href="/assets/pdf/CV_Harshit.pdf" class="link">CV</a>
         </div>
     </div>
+
+
+</div>
+
+
+<div class="row">
 
     <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Samanvay.jpg' | relative_url }}" alt="" title="example image" /> 
@@ -37,11 +52,6 @@ nav: true
          <a href="/assets/pdf/CV_Samanvay.pdf" class="link">CV</a>
         </div>
     </div>
-
-</div>
-
-
-<div class="row">
 
     <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Srikanth.jpg' | relative_url }}" alt="" title="example image" /> 
@@ -61,6 +71,11 @@ nav: true
         </div>
     </div>
 
+
+</div>
+
+<div class="row">
+
     <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Avinash.jpg' | relative_url }}" alt="" title="example image" /> 
         <div class="caption text-left">Avinash Umashankar <br>
@@ -70,8 +85,13 @@ nav: true
         </div>
     </div>
 
-  
+    <div class="col-sm mt-4 mt-md-0">
 
+    </div>
+
+    <div class="col-sm mt-4 mt-md-0">
+
+    </div>
 </div>
 
 
