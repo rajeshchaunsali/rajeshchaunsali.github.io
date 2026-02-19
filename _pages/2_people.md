@@ -136,6 +136,17 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 
 A glimpse into our lab's journey—celebrating milestones, achievements, and shared moments.
 
+
+
+#### Bowling Champions, Feb 2026 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group/Team_2026_02.jpg" title="Bowling Champions, Feb 2026" class="img-fluid  z-depth-0" %}
+    </div>
+</div>
+
+---
+
 #### CISM-IISc Workshop, July 2025 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
