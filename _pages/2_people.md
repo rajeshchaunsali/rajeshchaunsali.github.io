@@ -136,7 +136,15 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 
 A glimpse into our lab's journey—celebrating milestones, achievements, and shared moments.
 
+#### Open Day, March 2026 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group/Team_2026_03.jpg" title="Bowling Champions, Feb 2026" class="img-fluid  z-depth-0" %}
+    </div>
+</div>
+Our lab showcased two exciting aspects of aerospace structures. First, we demonstrated how the art of origami and kirigami can inspire novel deployable structures for space. Second, we showed how to unscrew a nut without touching it, using vibrations! A big thanks to the efforts of Harshit, Avinash, Samanvay, and Srikanth.
 
+---
 
 #### Bowling Champions, Feb 2026 
 <div class="row">

@@ -48,8 +48,8 @@ If you're excited about shaping the future of wave control through intelligent s
 
 ### Recent Publications  
 
-- **Wave propagation in an elastic lattice with non-reciprocal stiffness and engineered damping,**  
-  arXiv preprint arXiv:2507.23761, 2025.
+- **Wave propagation in an elastic lattice with nonreciprocal stiffness and engineered damping,**  
+  Journal of the Acoustical Society of America 159, 978, 2026.
 
 
 

@@ -30,7 +30,7 @@ This course explores the science of vibration in engineering structures, coverin
 
 ---
 
-### AE 292: Nonlinear Dynamics (Jan–Apr) [Co-instructor]
+### AE 212: Nonlinear Dynamics (Jan–Apr) [Co-instructor]
 
 This course offers a beginner-friendly introduction to nonlinear dynamical systems and chaos theory, with applications in engineering and physical sciences. Students explore stability analysis, bifurcations, and deterministic chaos, gaining insights into how nonlinearity shapes real-world systems.
 

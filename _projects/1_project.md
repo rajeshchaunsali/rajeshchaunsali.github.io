@@ -84,6 +84,8 @@ If you're curious about how we can shape materials to control energy in unpreced
   *Physical Review Research* **3**, 033012, 2021.  
 
 #### Topological Mechanics 
+- **Single-particle edge state in a local-resonance-induced topological band gap,**
+  arXiv:2603.05611, 2026.
 - **Bulk-Edge Correspondence in the Trimer Su-Schrieffer-Heeger Model,**  
   *Physical Review B* **106**, 085109, 2022.  
 - **Corner States in a Second-Order Mechanical Topological Insulator,**  
