@@ -9,7 +9,7 @@ nav: true
 <div class="row">
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/RC.jpg' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/RC.jpg' | relative_url }}" alt="Rajesh Chaunsali" title="Rajesh Chaunsali" /> 
         <div class="caption text-left">Rajesh Chaunsali <br>
          Assistant Professor <br>
          rchaunsali at iisc ac in <br>
@@ -21,7 +21,7 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Abhigna.jpg' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Abhigna.jpg' | relative_url }}" alt="Abhigna Bhatt" title="Abhigna Bhatt" /> 
         <div class="caption text-left">Abhigna Bhatt <br>
          National Postdoc Fellow ANRF <br>
          abhigna.bhatt at gmail dot com <br>
@@ -30,7 +30,7 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Harshit.jpg' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Harshit.jpg' | relative_url }}" alt="Harshit Kumar Sandhu" title="Harshit Kumar Sandhu" /> 
         <div class="caption text-left">Harshit Kumar Sandhu <br>
          Ph.D. student <br>
          harshithk at iisc ac in <br>
@@ -45,7 +45,7 @@ nav: true
 <div class="row">
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Samanvay.jpg' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Samanvay.jpg' | relative_url }}" alt="Samanvay Anand" title="Samanvay Anand" /> 
         <div class="caption text-left">Samanvay Anand <br>
          Ph.D. student (jointly with Dr. Dabade) <br>
          samanvaya at iisc ac in <br>
@@ -54,7 +54,7 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Srikanth.jpg' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Srikanth.jpg' | relative_url }}" alt="Garigipati Sai Srikant" title="Garigipati Sai Srikant" /> 
         <div class="caption text-left">Garigipati Sai Srikant <br>
          Ph.D. student <br>
          garigipatis at iisc ac in <br>
@@ -63,7 +63,7 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Jayalakshmi.jpg' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Jayalakshmi.jpg' | relative_url }}" alt="Jayalakshmi K" title="Jayalakshmi K" /> 
         <div class="caption text-left">Jayalakshmi K <br>
          M.Tech. (Research) student <br>
           jayalakshmik at iisc.ac.in <br>
@@ -77,7 +77,7 @@ nav: true
 <div class="row">
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Avinash.jpg' | relative_url }}" alt="" title="example image" /> 
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Avinash.jpg' | relative_url }}" alt="Avinash Umashankar" title="Avinash Umashankar" /> 
         <div class="caption text-left">Avinash Umashankar <br>
          Project Associate <br>
            avinashumashankar at gmail dot com <br>

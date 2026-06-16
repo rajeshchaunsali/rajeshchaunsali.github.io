@@ -79,7 +79,7 @@ The Laboratory for Engineered Materials and Structures (LEMS) is dedicated to th
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research/LEMS.png" title="example image" class="img-fluid  z-depth-0" %}
+        {% include figure.html path="assets/img/research/LEMS.png" alt="LEMS experimental facility with laser Doppler vibrometer, vibration shaker, and testing equipment" title="LEMS experimental facility" class="img-fluid  z-depth-0" %}
     </div>
 </div>
 

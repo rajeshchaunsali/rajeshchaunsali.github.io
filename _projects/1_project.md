@@ -13,7 +13,7 @@ Metamaterials are engineered materials designed to exhibit unconventional proper
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research/Project1.png" title="example image" class="img-fluid  z-depth-0" %}
+        {% include figure.html path="assets/img/research/Project1.png" alt="Topological lattice that robustly localizes and guides elastic wave energy" title="Topological lattices" class="img-fluid  z-depth-0" %}
     </div>
 </div>
 

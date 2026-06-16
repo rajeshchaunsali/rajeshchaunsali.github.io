@@ -9,7 +9,7 @@ description:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FrontMatter.png" title="example image" class="img-fluid rounded z-depth-0" %}
+        {% include figure.html path="assets/img/FrontMatter.png" alt="Collage of engineered materials and structures studied at LEMS" title="LEMS research overview" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 
