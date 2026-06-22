@@ -23,9 +23,11 @@ Explore the available opportunities below:
 
 We invite applications from highly motivated researchers interested in theoretical, numerical, or experimental studies in our group. Postdoctoral researchers are expected to be independent, proactive, and capable of leading research projects while mentoring Ph.D. students.
 
-**Current opening 1**: We are looking for specific expertise. For details, please see the [advertisement](/assets/img/openings/CEFIPRA.png). To apply, please use this [application form](https://forms.office.com/r/ENUdPf4FYm).
+**Current opening**: We are looking for specific expertise. For details, please see the [advertisement](/assets/img/openings/CEFIPRA.png). To apply, please use this [application form](https://forms.office.com/r/ENUdPf4FYm).
 
+<!--
 **Current opening 2**: The NPDF call is about to be announced in mid-January 2026. If you have a solid research background and want to develop a research proposal on a cutting-edge topic, please use this [application form](https://forms.office.com/r/ENUdPf4FYm).
+-->
 
 
 Outstanding candidates may also be considered for the following internal fellowships:
@@ -42,17 +44,17 @@ Additionally, candidates are encouraged to explore external funding opportunitie
 
 ---
 
-### Graduate research
+### Undergraduate and Graduate research
 
-If you have been admitted to a Ph.D. or M.Tech. program at IISc and are interested in working on advanced material systems, vibrations, wave dynamics, or metamaterials, we encourage you to reach out. Please **email us your CV** to explore potential research opportunities in our group.
+If you have been admitted to a Ph.D., M.Tech., or B.Tech. program at IISc and are interested in working on advanced material systems, vibrations, wave dynamics, or metamaterials, we encourage you to reach out. Please **email us your CV** to explore potential research opportunities in our group.
 
 ---
 
-### Undergraduate research
+### Internship
 
 We welcome applications from highly motivated undergraduate students in engineering, physics, or applied mathematics who are eager to gain research experience in experimental mechanics and material design. Students may apply through official channels such as:
 
-- [Indian Science Academies’ Summer Research Program](https://www.ias.ac.in/)
+- [Indian Science Academies’ Summer Research Program](https://www.ias.ac.in/). Also, please check Focus Area Science Technology Summer Fellowship scheme.
 - [Indian National Academy of Engineering](https://www.inae.in/mentoring-of-engineering-students-by-inae-fellows/)
 - [JNCASR Summer Research Fellowship](https://www.jncasr.ac.in/academic/fandeprogrammes/srfp/)
 
@@ -62,7 +64,7 @@ If you are passionate about experimental mechanics but missed the application de
 
 ### Project assistants/associates
 
-We will soon have an opening for a project assistant/associate to work on an exciting project in Mechanical Metamaterials. Candidates with experience in experimental mechanics and skills in robotics, 3D printing, and vibration testing are encouraged to apply. The salary will be as per IISc norms.
+We may have an opening for a project assistant/associate to work on an exciting project in Mechanical Metamaterials soon. Candidates with experience in experimental mechanics and skills in robotics, 3D printing, and vibration testing are encouraged to apply. The salary will be as per IISc norms.
 
 Please apply [here](https://forms.office.com/r/ENUdPf4FYm) to express your interest.
 

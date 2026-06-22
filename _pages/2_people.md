@@ -77,20 +77,30 @@ nav: true
 <div class="row">
 
     <div class="col-sm mt-4 mt-md-0">
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Yash.jpg' | relative_url }}" alt="Yashkumar Patil" title="Yashkumar Patil" /> 
+        <div class="caption text-left">Yashkumar Patil <br>
+         M.Tech. student <br>
+           yashkumarp at iisc dot ac dot in <br>
+         <a href="/assets/pdf/CV_Yash.pdf" class="link">CV</a>
+        </div>
+    </div>
+
+     <div class="col-sm mt-4 mt-md-0">
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Bharath.jpg' | relative_url }}" alt="Bharath Kumar S" title="Bharath Kumar S" /> 
+        <div class="caption text-left">Bharath Kumar S <br>
+         M.Tech. student <br>
+           bharathks at iisc dot ac dot in <br>
+         <a href="/assets/pdf/CV_Bharath.pdf" class="link">CV</a>
+        </div>
+    </div>
+
+     <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Avinash.jpg' | relative_url }}" alt="Avinash Umashankar" title="Avinash Umashankar" /> 
         <div class="caption text-left">Avinash Umashankar <br>
          Project Associate <br>
            avinashumashankar at gmail dot com <br>
          <a href="/assets/pdf/CV_Avinash.pdf" class="link">CV</a>
         </div>
-    </div>
-
-    <div class="col-sm mt-4 mt-md-0">
-
-    </div>
-
-    <div class="col-sm mt-4 mt-md-0">
-
     </div>
 </div>
 
@@ -120,13 +130,12 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 - **Renganath Rengarajan** (May 2022 – Nov 2022) → Airbus 
 - **Johnson Adams PS** (Dec 2021 – July 2022) → Columbia University, USA 
 
-##### Visiting Scholars & Interns  
-- **Vaishnavi Vijay Devgire** (Intern, May 2025 – July 2025)  
-- **Adinarayan Agaram** (Intern, May 2025 – July 2025)  
+##### Visiting Scholars & Interns 
+- **Pranav N M** and **Nandini Sanavda** (Intern, Summer 2026)  
+- **Vaishnavi Vijay Devgire** and **Adinarayan Agaram** (Intern, Summer 2025)   
 - **Avinash Umashankar** (Intern, Jan 2024 – May 2024)  
 - **Ankush Yadav** (Visiting Scholar, Nov 2023 – Feb 2024)  
-- **Vikramaditya Agrawal** (Intern, May 2023 – July 2023)  
-- **Vedant Vijaykrishnan** (Intern, May 2023 – July 2023)  
+- **Vikramaditya Agrawal** and **Vedant Vijaykrishnan** (Intern, Summer 2023) 
 
 <br>
 
@@ -135,6 +144,16 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 ### Group Pictures  
 
 A glimpse into our lab's journey—celebrating milestones, achievements, and shared moments.
+
+#### Outreach, May 2026  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group/Team_2026_05.jpeg" title="Outreach, May 2026" class="img-fluid  z-depth-0" %}
+    </div>
+</div>
+High-school students, Habeeb, Fidha, and Akansha, showcasing their prototypes as part of the Science Enrichment Program. 
+
+---
 
 #### Open Day, March 2026 
 <div class="row">
