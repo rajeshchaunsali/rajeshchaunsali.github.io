@@ -104,38 +104,39 @@ nav: true
     </div>
 </div>
 
-
 ---
 
 ## Alumni
 
-Our alumni have gone on to pursue exciting opportunities in academia, industry, and research institutions worldwide.  
+Our alumni have gone on to pursue exciting opportunities in academia, industry, and research institutions worldwide.
 
-##### Postdoctoral Researchers  
-- **Prabith K** (June 2022 – Dec 2024) → CNRS, France
-- **Anusree Ray** (June 2022 – Dec 2024) → University of Galway, Ireland 
+##### Postdoctoral Researchers
+- **Prabith K** (2022 – 2024) → CNRS, France
+- **Anusree Ray** (2022 – 2024) → University of Galway, Ireland
 
-##### Graduate Students  
-- **Anshuman** (M.Tech., Aug 2023 – June 2025) → DRDO 
-- **Kapila Ramya Krishna** (M.Tech., Aug 2023 – June 2025) → Triveni Turbine Limited
-- **Udbhav Viswakarma** (M.Tech. Research, Aug 2021 – Nov 2024) → Georgia Institute of Technology, USA 
-- **Panchal A. Jayeshbhai** (M.Tech., Aug 2022 – June 2024) → Ola Electric  
-- **Govardhan K** (M.Tech., Aug 2022 – June 2024) → DRDO  
+##### Graduate Students
+- **Anshuman** (M.Tech., 2023 – 2025) → DRDO
+- **Kapila Ramya Krishna** (M.Tech., 2023 – 2025) → Triveni Turbine Limited
+- **Udbhav Vishwakarma** (M.Tech. Research, 2021 – 2024) → Georgia Institute of Technology, USA
+- **Panchal A. Jayeshbhai** (M.Tech., 2022 – 2024) → Ola Electric
+- **Govardhan K** (M.Tech., 2022 – 2024) → DRDO
 
-##### Project Associates  
-- **Murthaza Irfan A V** (Oct 2022 -- June 2025)  → King Abdullah University of Science and Technology, Saudi Arabia
-- **Saurav Dutta** (June 2023 – July 2024) → Vizuara AI Labs 
-- **Ahamed Ali N** (July 2023 – June 2024) → Johns Hopkins University, USA  
-- **Mohit Dhanda** (June 2022 – Nov 2022) → University of Waterloo, Canada  
-- **Renganath Rengarajan** (May 2022 – Nov 2022) → Airbus 
-- **Johnson Adams PS** (Dec 2021 – July 2022) → Columbia University, USA 
+##### Project Associates
+- **Murthaza Irfan A V** (2022 – 2025) → King Abdullah University of Science and Technology, Saudi Arabia
+- **Saurav Dutta** (2023 – 2024) → Vizuara AI Labs
+- **Ahamed Ali N** (2023 – 2024) → Johns Hopkins University, USA
+- **Mohit Dhanda** (2022) → University of Waterloo, Canada
+- **Renganath Rengarajan** (2022) → Airbus
+- **Johnson Adams PS** (2021 – 2022) → Columbia University, USA
 
-##### Visiting Scholars & Interns 
-- **Pranav N M** and **Nandini Sanavda** (Intern, Summer 2026)  
-- **Vaishnavi Vijay Devgire** and **Adinarayan Agaram** (Intern, Summer 2025)   
-- **Avinash Umashankar** (Intern, Jan 2024 – May 2024)  
-- **Ankush Yadav** (Visiting Scholar, Nov 2023 – Feb 2024)  
-- **Vikramaditya Agrawal** and **Vedant Vijaykrishnan** (Intern, Summer 2023) 
+##### Undergraduate Project Students
+- **S Roshan Kumar**, **Sahana Rao**, and **Varshini V Y** (2025 – 26) — PES University
+
+##### Visiting Scholars & Interns
+- **2026:** Rishiraj Krishan (NERIST), Pranav N M (IIT Madras), Nandini Sanavda (IIT Kharagpur)
+- **2025:** Vaishnavi Vijay Devgire (IIEST Shibpur), Adinarayan Agaram (IIT Madras)
+- **2024:** Avinash Umashankar (Sastra Deemed University)
+- **2023:** Vikramaditya Agrawal (NIT Tiruchirappalli), Vedant Vijaykrishnan (Manipal Institute of Technology), Ankush Yadav (Visiting Scholar, Technion, Israel)
 
 <br>
 
@@ -144,6 +145,16 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 ### Group Pictures  
 
 A glimpse into our lab's journey—celebrating milestones, achievements, and shared moments.
+
+#### Group Photo, July 2026  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group/Team_2026_07.jpg" title="Group Photo, July 2026" class="img-fluid  z-depth-0" %}
+    </div>
+</div>
+Whole group and interns came together this summer to present their exciting research. 
+
+---
 
 #### Outreach, May 2026  
 <div class="row">

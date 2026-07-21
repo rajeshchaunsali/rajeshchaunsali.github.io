@@ -25,6 +25,7 @@ We invite applications from highly motivated researchers interested in theoretic
 
 **Current opening**: We are looking for specific expertise. For details, please see the [advertisement](/assets/img/openings/CEFIPRA.png). To apply, please use this [application form](https://forms.office.com/r/ENUdPf4FYm).
 
+
 <!--
 **Current opening 2**: The NPDF call is about to be announced in mid-January 2026. If you have a solid research background and want to develop a research proposal on a cutting-edge topic, please use this [application form](https://forms.office.com/r/ENUdPf4FYm).
 -->
@@ -64,9 +65,13 @@ If you are passionate about experimental mechanics but missed the application de
 
 ### Project assistants/associates
 
+**Current opening**: For details, please see the [advertisement](/assets/img/openings/METAMATERIALS.png). To apply, please use this [application form](https://forms.office.com/r/ENUdPf4FYm).
+
+<!--
 We may have an opening for a project assistant/associate to work on an exciting project in Mechanical Metamaterials soon. Candidates with experience in experimental mechanics and skills in robotics, 3D printing, and vibration testing are encouraged to apply. The salary will be as per IISc norms.
 
 Please apply [here](https://forms.office.com/r/ENUdPf4FYm) to express your interest.
+-->
 
 ---
 
