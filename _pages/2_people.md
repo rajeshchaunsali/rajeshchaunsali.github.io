@@ -63,11 +63,11 @@ nav: true
     </div>
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Jayalakshmi.jpg' | relative_url }}" alt="Jayalakshmi K" title="Jayalakshmi K" /> 
-        <div class="caption text-left">Jayalakshmi K <br>
-         M.Tech. (Research) student <br>
-          jayalakshmik at iisc.ac.in <br>
-         <a href="/assets/pdf/CV_Jayalakshmi.pdf" class="link">CV</a>
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Ayushman.jpg' | relative_url }}" alt="Ayushman K" title="Ayushman K" /> 
+        <div class="caption text-left">Ayushman Chatterjee <br>
+         Ph.D. student <br>
+          ayushmancha1 at iisc.ac.in <br>
+         <a href="/assets/pdf/CV_Ayushman.pdf" class="link">CV</a>
         </div>
     </div>
 
@@ -75,6 +75,15 @@ nav: true
 </div>
 
 <div class="row">
+
+    <div class="col-sm mt-4 mt-md-0">
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Jayalakshmi.jpg' | relative_url }}" alt="Jayalakshmi K" title="Jayalakshmi K" /> 
+        <div class="caption text-left">Jayalakshmi K <br>
+         M.Tech. (Research) student <br>
+          jayalakshmik at iisc.ac.in <br>
+         <a href="/assets/pdf/CV_Jayalakshmi.pdf" class="link">CV</a>
+        </div>
+    </div>
 
     <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Yash.jpg' | relative_url }}" alt="Yashkumar Patil" title="Yashkumar Patil" /> 
@@ -94,6 +103,11 @@ nav: true
         </div>
     </div>
 
+</div>
+
+
+<div class="row">
+
      <div class="col-sm mt-4 mt-md-0">
         <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/Avinash.jpg' | relative_url }}" alt="Avinash Umashankar" title="Avinash Umashankar" /> 
         <div class="caption text-left">Avinash Umashankar <br>
@@ -101,6 +115,12 @@ nav: true
            avinashumashankar at gmail dot com <br>
          <a href="/assets/pdf/CV_Avinash.pdf" class="link">CV</a>
         </div>
+    </div>
+
+    <div class="col-sm mt-4 mt-md-0">
+    </div>
+
+    <div class="col-sm mt-4 mt-md-0">
     </div>
 </div>
 
@@ -145,6 +165,16 @@ Our alumni have gone on to pursue exciting opportunities in academia, industry, 
 ### Group Pictures  
 
 A glimpse into our lab's journey—celebrating milestones, achievements, and shared moments.
+
+#### Industry visit, July 2026  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group/Team_2026_07_2.jpg" title="Industry visit, July 2026" class="img-fluid  z-depth-0" %}
+    </div>
+</div>
+The LEMS team recently visited OrbitAID, meeting with Sakthikumar and his dynamic team. OrbitAID is actively shaping the future of space operations through pioneering advancements in on-orbit servicing and satellite refueling.
+
+---
 
 #### Group Photo, July 2026  
 <div class="row">
