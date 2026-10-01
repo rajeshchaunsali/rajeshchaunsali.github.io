@@ -23,10 +23,11 @@ Explore the available opportunities below:
 
 We invite applications from highly motivated researchers interested in theoretical, numerical, or experimental studies in our group. Postdoctoral researchers are expected to be independent, proactive, and capable of leading research projects while mentoring Ph.D. students.
 
+<!--
 **Current opening**: We are looking for specific expertise. For details, please see the [advertisement](/assets/img/openings/CEFIPRA.png). To apply, please use this [application form](https://forms.office.com/r/ENUdPf4FYm).
 
 
-<!--
+
 **Current opening 2**: The NPDF call is about to be announced in mid-January 2026. If you have a solid research background and want to develop a research proposal on a cutting-edge topic, please use this [application form](https://forms.office.com/r/ENUdPf4FYm).
 -->
 
