@@ -9,7 +9,7 @@ nav: true
 <div class="row">
 
     <div class="col-sm mt-4 mt-md-0">
-        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/RC.jpg' | relative_url }}" alt="Rajesh Chaunsali" title="Rajesh Chaunsali" /> 
+        <img class="img-fluid  z-depth-0" src="{{ '/assets/img/group/RC2026a.jpeg' | relative_url }}" alt="Rajesh Chaunsali" title="Rajesh Chaunsali" /> 
         <div class="caption text-left">Rajesh Chaunsali <br>
          Assistant Professor <br>
          rchaunsali at iisc ac in <br>
